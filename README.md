@@ -37,7 +37,11 @@ A toolkit for building rich-text editors on the web.
 - [prosemirror-virtual-cursor](https://github.com/ocavue/prosemirror-virtual-cursor) - A plugin that adds a virtual cursor (or caret) to your editor
 
 ## Editors
-TODO
+- [ProseKit](https://github.com/prosekit/prosekit) - Framework agnostic and headless rich text editor
+- [Remirror](https://github.com/remirror/remirror) - A React toolkit for building cross-platform text editor
+- [Tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans
+- [Milkdown](https://github.com/Milkdown/milkdown) - Plugin driven WYSIWYG markdown editor framework
+- [BlockNote](https://github.com/TypeCellOS/BlockNote) - A block-based rich-text editor for React
 
 ## Articles
 - [Pragmatic ProseMirror guide](https://github.com/PierBover/prosemirror-cookbook)

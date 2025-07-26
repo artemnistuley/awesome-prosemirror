@@ -47,6 +47,7 @@ A toolkit for building rich-text editors on the web.
 ## Editors
 - [ProseKit](https://github.com/prosekit/prosekit) - Framework agnostic and headless rich text editor
 - [Tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans
+- [Textrix](https://github.com/abdulrahman-mh/textrix) - Medium-style rich-text editor built for publishing, with AI, media embeds, and customization.
 - [Remirror](https://github.com/remirror/remirror) - A React toolkit for building cross-platform text editor
 - [Atlaskit](https://atlaskit.atlassian.com/packages/editor/editor-core) - A rich text editor that provides highly customizable editing experience, built on React
 - [Milkdown](https://github.com/Milkdown/milkdown) - Plugin driven WYSIWYG markdown editor framework

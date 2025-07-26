@@ -36,6 +36,13 @@ A toolkit for building rich-text editors on the web.
 - [prosemirror-flat-list](https://github.com/ocavue/prosemirror-flat-list) - Powerful list for ProseMirror and Remirror
 - [prosemirror-virtual-cursor](https://github.com/ocavue/prosemirror-virtual-cursor) - A plugin that adds a virtual cursor (or caret) to your editor
 - [react-prosemirror](https://github.com/handlewithcarecollective/react-prosemirror) - A library for safely integrating ProseMirror and React
+- [prosemirror-trailing-node](https://github.com/remirror/remirror/tree/main/packages/prosemirror-trailing-node) - A trailing node plugin for the prosemirror editor
+- [prosemirror-paste-rules](https://github.com/remirror/remirror/tree/main/packages/prosemirror-paste-rules) - Better handling of pasted content in the editor
+- [prosemirror-resizable-view](https://github.com/remirror/remirror/tree/main/packages/prosemirror-resizable-view) - A ProseMirror node view that make your node resizable
+- [prosemirror-suggest](https://github.com/remirror/remirror/tree/main/packages/prosemirror-suggest) - Primitives for building your prosemirror suggestion and autocomplete functionality
+- [prosemirror-math](https://github.com/benrbray/prosemirror-math) - Schema and plugins for "first-class" math support in ProseMirror
+- [prosemirror-image-plugin](https://gitlab.com/emergence-engineering/prosemirror-image-plugin) - A ProseMirror plugin for working with images
+- [prosemirror-slash-menu](https://github.com/emergence-engineering/prosemirror-slash-menu) - A ProseMirror plugin to handle the state of a slash menu
 
 ## Editors
 - [ProseKit](https://github.com/prosekit/prosekit) - Framework agnostic and headless rich text editor
@@ -50,7 +57,6 @@ A toolkit for building rich-text editors on the web.
 - [Rhino Editor](https://github.com/KonnorRogers/rhino-editor) - A tiptap integration for Rails compatible with ActionText
 - [Wax Editor](https://gitlab.coko.foundation/wax/wax-prosemirror) - A rich-text editor using Prosemirror with React
 - [Banger Editor](https://github.com/bangle-io/banger-editor) - Collection of higher level rich text editing tools
-
 
 ## Articles
 - [Pragmatic ProseMirror guide](https://github.com/PierBover/prosemirror-cookbook)

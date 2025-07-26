@@ -41,16 +41,21 @@ A toolkit for building rich-text editors on the web.
 - [ProseKit](https://github.com/prosekit/prosekit) - Framework agnostic and headless rich text editor
 - [Tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans
 - [Remirror](https://github.com/remirror/remirror) - A React toolkit for building cross-platform text editor
-- [Atlaskit](https://atlaskit.atlassian.com/) - A rich text editor that provides highly customizable editing experience, built on React
+- [Atlaskit](https://atlaskit.atlassian.com/packages/editor/editor-core) - A rich text editor that provides highly customizable editing experience, built on React
 - [Milkdown](https://github.com/Milkdown/milkdown) - Plugin driven WYSIWYG markdown editor framework
 - [BlockNote](https://github.com/TypeCellOS/BlockNote) - A block-based rich-text editor for React
+- [Novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion
+- [GitLab's editor](https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/assets/javascripts/content_editor) - GitLab's rich text editor
 - [Stacks-Editor](https://github.com/StackExchange/Stacks-Editor) - Stack Overflow's Combination Rich Text / Markdown Editor
 - [Rhino Editor](https://github.com/KonnorRogers/rhino-editor) - A tiptap integration for Rails compatible with ActionText
 - [Wax Editor](https://gitlab.coko.foundation/wax/wax-prosemirror) - A rich-text editor using Prosemirror with React
+- [Banger Editor](https://github.com/bangle-io/banger-editor) - Collection of higher level rich text editing tools
+
 
 ## Articles
 - [Pragmatic ProseMirror guide](https://github.com/PierBover/prosemirror-cookbook)
 - [Build Your Own: React, ProseMirror, and Redux](https://nytimes.github.io/oak-byo-react-prosemirror-redux/)
+- [Why I rebuilt ProseMirror's renderer in React](https://smoores.dev/post/why_i_rebuilt_prosemirror_view/)
 
 ## Related
 - [awesome-tiptap](https://github.com/ueberdosis/awesome-tiptap) - Delightful Tiptap packages and resources

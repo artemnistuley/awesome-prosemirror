@@ -24,6 +24,7 @@ A toolkit for building rich-text editors on the web.
 - [prosemirror-schema-list](https://github.com/ProseMirror/prosemirror-schema-list) - List-related schema elements and commands for ProseMirror
 
 ## Non-core modules
+- [prosemirror-example-setup](https://github.com/ProseMirror/prosemirror-example-setup) - An example of how to set up a ProseMirror editor
 - [prosemirror-tables](https://github.com/ProseMirror/prosemirror-tables) - Table module for ProseMirror
 - [prosemirror-dropcursor](https://github.com/ProseMirror/prosemirror-dropcursor) - A drop cursor plugin for ProseMirror
 - [prosemirror-changeset](https://github.com/ProseMirror/prosemirror-changeset) - Distills a series of editing steps into deleted and added ranges
@@ -35,6 +36,8 @@ A toolkit for building rich-text editors on the web.
 - [prosemirror-adapter](https://github.com/prosekit/prosemirror-adapter) - Universal adapter for ProseMirror to use it with modern UI frameworks
 - [prosemirror-flat-list](https://github.com/ocavue/prosemirror-flat-list) - Powerful list for ProseMirror and Remirror
 - [prosemirror-virtual-cursor](https://github.com/ocavue/prosemirror-virtual-cursor) - A plugin that adds a virtual cursor (or caret) to your editor
+- [y-prosemirror](https://github.com/yjs/y-prosemirror) - ProseMirror editor binding for Yjs
+- [loro-prosemirror](https://github.com/loro-dev/loro-prosemirror) - Prosemirror Binding for Loro
 - [react-prosemirror](https://github.com/handlewithcarecollective/react-prosemirror) - A library for safely integrating ProseMirror and React
 - [prosemirror-trailing-node](https://github.com/remirror/remirror/tree/main/packages/prosemirror-trailing-node) - A trailing node plugin for the prosemirror editor
 - [prosemirror-paste-rules](https://github.com/remirror/remirror/tree/main/packages/prosemirror-paste-rules) - Better handling of pasted content in the editor

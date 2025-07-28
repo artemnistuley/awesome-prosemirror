@@ -54,10 +54,11 @@ A toolkit for building rich-text editors on the web.
 - [Atlaskit](https://atlaskit.atlassian.com/packages/editor/editor-core) - A rich text editor that provides highly customizable editing experience, built on React
 - [Milkdown](https://github.com/Milkdown/milkdown) - Plugin driven WYSIWYG markdown editor framework
 - [BlockNote](https://github.com/TypeCellOS/BlockNote) - A block-based rich-text editor for React
-- [Novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion
 - [GitLab's editor](https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/assets/javascripts/content_editor) - GitLab's rich text editor
 - [Stacks-Editor](https://github.com/StackExchange/Stacks-Editor) - Stack Overflow's Combination Rich Text / Markdown Editor
+- [SuperDoc](https://github.com/Harbour-Enterprises/SuperDoc) - A document editor bringing Microsoft Word capabilities to the web
 - [Rhino Editor](https://github.com/KonnorRogers/rhino-editor) - A tiptap integration for Rails compatible with ActionText
+- [Novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion
 - [Wax Editor](https://gitlab.coko.foundation/wax/wax-prosemirror) - A rich-text editor using Prosemirror with React
 - [Banger Editor](https://github.com/bangle-io/banger-editor) - Collection of higher level rich text editing tools
 

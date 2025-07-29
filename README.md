@@ -26,6 +26,7 @@ A toolkit for building rich-text editors on the web.
 ## Non-core modules
 - [prosemirror-example-setup](https://github.com/ProseMirror/prosemirror-example-setup) - An example of how to set up a ProseMirror editor
 - [prosemirror-tables](https://github.com/ProseMirror/prosemirror-tables) - Table module for ProseMirror
+- [prosemirror-search](https://github.com/ProseMirror/prosemirror-search) - Search/replace functionality for ProseMirror
 - [prosemirror-dropcursor](https://github.com/ProseMirror/prosemirror-dropcursor) - A drop cursor plugin for ProseMirror
 - [prosemirror-changeset](https://github.com/ProseMirror/prosemirror-changeset) - Distills a series of editing steps into deleted and added ranges
 - [prosemirror-markdown](https://github.com/ProseMirror/prosemirror-markdown) - ProseMirror Markdown integration
@@ -43,9 +44,13 @@ A toolkit for building rich-text editors on the web.
 - [prosemirror-paste-rules](https://github.com/remirror/remirror/tree/main/packages/prosemirror-paste-rules) - Better handling of pasted content in the editor
 - [prosemirror-resizable-view](https://github.com/remirror/remirror/tree/main/packages/prosemirror-resizable-view) - A ProseMirror node view that make your node resizable
 - [prosemirror-suggest](https://github.com/remirror/remirror/tree/main/packages/prosemirror-suggest) - Primitives for building your prosemirror suggestion and autocomplete functionality
+- [prosemirror-suggest-changes](https://github.com/handlewithcarecollective/prosemirror-suggest-changes) - A ProseMirror library for enabling Google Docs-style suggestions
+- [prosemirror-highlight](https://github.com/ocavue/prosemirror-highlight) - Highlight your ProseMirror code blocks with any syntax highlighter you like
 - [prosemirror-math](https://github.com/benrbray/prosemirror-math) - Schema and plugins for "first-class" math support in ProseMirror
 - [prosemirror-image-plugin](https://gitlab.com/emergence-engineering/prosemirror-image-plugin) - A ProseMirror plugin for working with images
 - [prosemirror-slash-menu](https://github.com/emergence-engineering/prosemirror-slash-menu) - A ProseMirror plugin to handle the state of a slash menu
+- [prosemirror-docx](https://github.com/curvenote/prosemirror-docx) - Export a prosemirror document to a Microsoft Word file, using docx
+- [prosemirror-dev-toolkit](https://github.com/TeemuKoivisto/prosemirror-dev-toolkit) - Injectable developer tools for ProseMirror rich-text editors
 
 ## Editors
 - [ProseKit](https://github.com/prosekit/prosekit) - Framework agnostic and headless rich text editor

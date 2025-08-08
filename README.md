@@ -51,6 +51,9 @@ A toolkit for building rich-text editors on the web.
 - [prosemirror-slash-menu](https://github.com/emergence-engineering/prosemirror-slash-menu) - A ProseMirror plugin to handle the state of a slash menu
 - [prosemirror-docx](https://github.com/curvenote/prosemirror-docx) - Export a prosemirror document to a Microsoft Word file, using docx
 - [prosemirror-dev-toolkit](https://github.com/TeemuKoivisto/prosemirror-dev-toolkit) - Injectable developer tools for ProseMirror rich-text editors
+- [remark-prosemirror](https://github.com/handlewithcarecollective/remark-prosemirror) - A remark plugin for converting between markdown and ProseMirror
+- [prosemirror-collab-commit](https://github.com/stepwisehq/prosemirror-collab-commit) - Commit-based collaborative editing plugin for ProseMirror
+- [prosemirror-elements](https://github.com/guardian/prosemirror-elements) - A ProseMirror plugin for adding user-defined 'elements' containing arbitrary fields to a document
 
 ## Editors
 - [ProseKit](https://github.com/prosekit/prosekit) - Framework agnostic and headless rich text editor
@@ -66,6 +69,8 @@ A toolkit for building rich-text editors on the web.
 - [Novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion
 - [Wax Editor](https://gitlab.coko.foundation/wax/wax-prosemirror) - A rich-text editor using Prosemirror with React
 - [Banger Editor](https://github.com/bangle-io/banger-editor) - Collection of higher level rich text editing tools
+- [django-prose-editor](https://github.com/matthiask/django-prose-editor) - ProseMirror-based HTML editor for Django
+- [@curvenote/editor](https://github.com/curvenote/editor) - An interactive scientific editor built with ProseMirror, React and Redux
 
 ## Articles
 - [Pragmatic ProseMirror guide](https://github.com/PierBover/prosemirror-cookbook)

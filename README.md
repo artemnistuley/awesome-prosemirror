@@ -69,8 +69,11 @@ A toolkit for building rich-text editors on the web.
 - [Novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion
 - [Wax Editor](https://gitlab.coko.foundation/wax/wax-prosemirror) - A rich-text editor using Prosemirror with React
 - [Banger Editor](https://github.com/bangle-io/banger-editor) - Collection of higher level rich text editing tools
-- [django-prose-editor](https://github.com/matthiask/django-prose-editor) - ProseMirror-based HTML editor for Django
+- [Outline's editor](https://github.com/outline/outline/tree/main/shared/editor) - Outline's text editor
+- [PubPub's editor](https://github.com/pubpub/pubpub/tree/master/client/components/Editor) - PubPub's editor
+- [Fidus Writer](https://github.com/fiduswriter/fiduswriter/tree/main/fiduswriter/document/static/js/modules) - Online collaborative editor for academics
 - [@curvenote/editor](https://github.com/curvenote/editor) - An interactive scientific editor built with ProseMirror, React and Redux
+- [django-prose-editor](https://github.com/matthiask/django-prose-editor) - ProseMirror-based HTML editor for Django
 
 ## Articles
 - [Pragmatic ProseMirror guide](https://github.com/PierBover/prosemirror-cookbook)

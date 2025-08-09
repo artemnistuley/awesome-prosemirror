@@ -67,6 +67,7 @@ A toolkit for building rich-text editors on the web.
 - [SuperDoc](https://github.com/Harbour-Enterprises/SuperDoc) - A document editor bringing Microsoft Word capabilities to the web
 - [Rhino Editor](https://github.com/KonnorRogers/rhino-editor) - A tiptap integration for Rails compatible with ActionText
 - [Novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion
+- [Kameo](https://github.com/kameojs/kameo) - Web form editor framework powered by ProseMirror
 - [Wax Editor](https://gitlab.coko.foundation/wax/wax-prosemirror) - A rich-text editor using Prosemirror with React
 - [Banger Editor](https://github.com/bangle-io/banger-editor) - Collection of higher level rich text editing tools
 - [Outline's editor](https://github.com/outline/outline/tree/main/shared/editor) - Outline's text editor

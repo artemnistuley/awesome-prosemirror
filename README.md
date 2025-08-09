@@ -54,6 +54,7 @@ A toolkit for building rich-text editors on the web.
 - [remark-prosemirror](https://github.com/handlewithcarecollective/remark-prosemirror) - A remark plugin for converting between markdown and ProseMirror
 - [prosemirror-collab-commit](https://github.com/stepwisehq/prosemirror-collab-commit) - Commit-based collaborative editing plugin for ProseMirror
 - [prosemirror-elements](https://github.com/guardian/prosemirror-elements) - A ProseMirror plugin for adding user-defined 'elements' containing arbitrary fields to a document
+- [manuscripts-track-changes-plugin](https://github.com/Atypon-OpenSource/manuscripts-track-changes-plugin) - ProseMirror plugin designed to track changes within a document
 
 ## Editors
 - [ProseKit](https://github.com/prosekit/prosekit) - Framework agnostic and headless rich text editor

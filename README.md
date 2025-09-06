@@ -56,6 +56,7 @@ A toolkit for building rich-text editors on the web.
 - [prosemirror-elements](https://github.com/guardian/prosemirror-elements) - A ProseMirror plugin for adding user-defined 'elements' containing arbitrary fields to a document
 - [manuscripts-track-changes-plugin](https://github.com/Atypon-OpenSource/manuscripts-track-changes-plugin) - ProseMirror plugin designed to track changes within a document
 - [prosemirror-inputrules](https://github.com/handlewithcarecollective/prosemirror-inputrules) - A prosemirror-inputrules fork with better undo support
+- [prosemirror-placeholder-field](https://github.com/artemnistuley/prosemirror-placeholder-field) - Placeholder Field module for ProseMirror
 
 ## Editors
 - [ProseKit](https://github.com/prosekit/prosekit) - Framework agnostic and headless rich text editor

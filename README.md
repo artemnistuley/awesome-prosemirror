@@ -7,30 +7,30 @@ A toolkit for building rich-text editors on the web.
 - [Examples](https://prosemirror.net/examples/)
 - [Documentation](https://prosemirror.net/docs/)
 - [Discuss](https://discuss.prosemirror.net/)
-- [GitHub Repo](https://github.com/prosemirror)
+- [Git Repo](https://code.haverbeke.berlin/prosemirror)
 
 ## Core modules
-- [prosemirror-state](https://github.com/ProseMirror/prosemirror-state) - ProseMirror editor state
-- [prosemirror-view](https://github.com/ProseMirror/prosemirror-view) - ProseMirror's view component
-- [prosemirror-model](https://github.com/ProseMirror/prosemirror-model) - ProseMirror's document model
-- [prosemirror-transform](https://github.com/ProseMirror/prosemirror-transform) - ProseMirror document transformations
-- [prosemirror-commands](https://github.com/ProseMirror/prosemirror-commands) - Editing commands for ProseMirror
-- [prosemirror-history](https://github.com/ProseMirror/prosemirror-history) - Undo history for ProseMirror
-- [prosemirror-collab](https://github.com/ProseMirror/prosemirror-collab) - Collaborative editing for ProseMirror
-- [prosemirror-keymap](https://github.com/ProseMirror/prosemirror-keymap) - Keymap plugin for ProseMirror
-- [prosemirror-inputrules](https://github.com/ProseMirror/prosemirror-inputrules) - Automatic transforms on text input for ProseMirror
-- [prosemirror-gapcursor](https://github.com/ProseMirror/prosemirror-gapcursor) - Plugin for cursors at normally impossible-to-reach positions
-- [prosemirror-schema-basic](https://github.com/ProseMirror/prosemirror-schema-basic) - Basic schema elements for ProseMirror
-- [prosemirror-schema-list](https://github.com/ProseMirror/prosemirror-schema-list) - List-related schema elements and commands for ProseMirror
+- [prosemirror-state](https://code.haverbeke.berlin/prosemirror/prosemirror-state) - ProseMirror editor state
+- [prosemirror-view](https://code.haverbeke.berlin/prosemirror/prosemirror-view) - ProseMirror's view component
+- [prosemirror-model](https://code.haverbeke.berlin/prosemirror/prosemirror-model) - ProseMirror's document model
+- [prosemirror-transform](https://code.haverbeke.berlin/prosemirror/prosemirror-transform) - ProseMirror document transformations
+- [prosemirror-commands](https://code.haverbeke.berlin/prosemirror/prosemirror-commands) - Editing commands for ProseMirror
+- [prosemirror-history](https://code.haverbeke.berlin/prosemirror/prosemirror-history) - Undo history for ProseMirror
+- [prosemirror-collab](https://code.haverbeke.berlin/prosemirror/prosemirror-collab) - Collaborative editing for ProseMirror
+- [prosemirror-keymap](https://code.haverbeke.berlin/prosemirror/prosemirror-keymap) - Keymap plugin for ProseMirror
+- [prosemirror-inputrules](https://code.haverbeke.berlin/prosemirror/prosemirror-inputrules) - Automatic transforms on text input for ProseMirror
+- [prosemirror-gapcursor](https://code.haverbeke.berlin/prosemirror/prosemirror-gapcursor) - Plugin for cursors at normally impossible-to-reach positions
+- [prosemirror-schema-basic](https://code.haverbeke.berlin/prosemirror/prosemirror-schema-basic) - Basic schema elements for ProseMirror
+- [prosemirror-schema-list](https://code.haverbeke.berlin/prosemirror/prosemirror-schema-list) - List-related schema elements and commands for ProseMirror
 
 ## Non-core modules
-- [prosemirror-example-setup](https://github.com/ProseMirror/prosemirror-example-setup) - An example of how to set up a ProseMirror editor
-- [prosemirror-tables](https://github.com/ProseMirror/prosemirror-tables) - Table module for ProseMirror
-- [prosemirror-search](https://github.com/ProseMirror/prosemirror-search) - Search/replace functionality for ProseMirror
-- [prosemirror-dropcursor](https://github.com/ProseMirror/prosemirror-dropcursor) - A drop cursor plugin for ProseMirror
-- [prosemirror-changeset](https://github.com/ProseMirror/prosemirror-changeset) - Distills a series of editing steps into deleted and added ranges
-- [prosemirror-markdown](https://github.com/ProseMirror/prosemirror-markdown) - ProseMirror Markdown integration
-- [prosemirror-menu](https://github.com/ProseMirror/prosemirror-menu) - Simple menu elements for ProseMirror
+- [prosemirror-example-setup](https://code.haverbeke.berlin/prosemirror/prosemirror-example-setup) - An example of how to set up a ProseMirror editor
+- [prosemirror-tables](https://code.haverbeke.berlin/prosemirror/prosemirror-tables) - Table module for ProseMirror
+- [prosemirror-search](https://code.haverbeke.berlin/prosemirror/prosemirror-search) - Search/replace functionality for ProseMirror
+- [prosemirror-dropcursor](https://code.haverbeke.berlin/prosemirror/prosemirror-dropcursor) - A drop cursor plugin for ProseMirror
+- [prosemirror-changeset](https://code.haverbeke.berlin/prosemirror/prosemirror-changeset) - Distills a series of editing steps into deleted and added ranges
+- [prosemirror-markdown](https://code.haverbeke.berlin/prosemirror/prosemirror-markdown) - ProseMirror Markdown integration
+- [prosemirror-menu](https://code.haverbeke.berlin/prosemirror/prosemirror-menu) - Simple menu elements for ProseMirror
 
 ## Community modules
 - [prosemirror-utils](https://github.com/atlassian/prosemirror-utils) - Utils library for ProseMirror

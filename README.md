@@ -25,7 +25,7 @@ A toolkit for building rich-text editors on the web.
 
 ## Non-core modules
 - [prosemirror-example-setup](https://code.haverbeke.berlin/prosemirror/prosemirror-example-setup) - An example of how to set up a ProseMirror editor
-- [prosemirror-tables](https://code.haverbeke.berlin/prosemirror/prosemirror-tables) - Table module for ProseMirror
+- [prosemirror-tables](https://github.com/ProseMirror/prosemirror-tables) - Table module for ProseMirror
 - [prosemirror-search](https://code.haverbeke.berlin/prosemirror/prosemirror-search) - Search/replace functionality for ProseMirror
 - [prosemirror-dropcursor](https://code.haverbeke.berlin/prosemirror/prosemirror-dropcursor) - A drop cursor plugin for ProseMirror
 - [prosemirror-changeset](https://code.haverbeke.berlin/prosemirror/prosemirror-changeset) - Distills a series of editing steps into deleted and added ranges

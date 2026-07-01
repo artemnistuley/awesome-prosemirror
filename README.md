@@ -85,6 +85,8 @@ A toolkit for building rich-text editors on the web.
 - [Pragmatic ProseMirror guide](https://github.com/PierBover/prosemirror-cookbook)
 - [Build Your Own: React, ProseMirror, and Redux](https://nytimes.github.io/oak-byo-react-prosemirror-redux/)
 - [Why I rebuilt ProseMirror's renderer in React](https://smoores.dev/post/why_i_rebuilt_prosemirror_view/)
+- [Making React ProseMirror really, really fast](https://handlewithcare.dev/blog/making_react_prosemirror_really_really_fast/)
+- [The Unreasonable Effectiveness of ProseMirror Model in Rich Text Transformation](https://smoores.dev/post/unreasonable_effectiveness_of_prosemirror/)
 
 ## Related
 - [awesome-tiptap](https://github.com/ueberdosis/awesome-tiptap) - Delightful Tiptap packages and resources
